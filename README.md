@@ -4,11 +4,11 @@ Jag heter Eliza Hadlowska och är 27 år gammal. Jag kommer ursprungligen från 
 med min sambo, ett barn (och ett till påväg), våra hundar, kaniner, höns och ankor.  
 
 
-##🌱 Vad jag läser till:
-Jag har börjat på Mittuniversitetet och studerar till webbutvecklare. Det är en 2 årig utbildning som jag nyligen har påbörjat och läser kursen Introduktion till 
+## 🌱 Vad jag läser till:
+Jag har börjat på **Mittuniversitetet** och studerar till _webbutvecklare_. Det är en 2 årig utbildning som jag nyligen har påbörjat och läser kursen Introduktion till 
 webbutveckling med HTML, CSS och Javascript.
 
-###👯 Mina tidigare studier och arbeten: 
+### 👯 Mina tidigare studier och arbeten: 
 Jag har tidigare studerat 5 år till Apotekare på distans i Umeå och blivit färdig med min examen 2023. Jag har jobbat på apotek sedan 2018, där jag har börjat att jobba 
 i kassan för att sedan bli rådgivare, receptarie och till slut apotekare.
 
